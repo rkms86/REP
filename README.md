@@ -15,6 +15,7 @@ You should have the `recenter_part` binary. To know the arguments you can do:
 recenter_part --help
 ```
 
-
+# LICENSE
+GPL v2.0
 
 
