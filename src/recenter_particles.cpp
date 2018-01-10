@@ -36,8 +36,6 @@
 
 #include <getopt.h>
 
-#include <linux/limits.h>
-
 #include "StringUtils.h"
 
 #include "ParamsReader.h"
