@@ -393,10 +393,9 @@ void ArgsParser::print_args() {
 
 void ArgsParser::print_disclaimer() {
 
-	printf("************************************************************************\n");
-	printf("***************** ALPHA VERSION FOR INTERNAL TEST ONLY *****************\n");
-	printf("******** Developed by Ricardo Sanchez (risanche@biophys.mpg.de) ********\n");
-	printf("*****  Commissioned by Edoardo D'Imprima (eddimpri@biophys.mpg.de) *****\n");
+	printf("***************************** BETA VERSION *****************************\n");
+	printf("* If you're using REP for your own academic or non-academic research,  *\n");
+	printf("* we kindly request that you cite: https://doi.org/10.7554/eLife.30483 *\n");
 	printf("************************************************************************\n");
 	printf("\n");
 	
